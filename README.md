@@ -1,11 +1,11 @@
 # 🌍 EVENT ተራ (Local Event Finder)
 
 **Internet Programming I**
-*A user-friendly web application to transform local event discovery and community engagement in Ethiopia.*
+*A user-friendly web application to transfer local event discovery and community engagement in Addis Ababa.*
 
 ## 🌟 Project Overview
 
-**EVENT ተራ** (Local Event Finder) is a web-based platform developed to solve the significant challenge of finding local and free events in Ethiopia, where information is often scattered across social media and physical flyers[cite: 13, 22, 52]. [cite_start]By creating a centralized, accessible, and responsive platform, the project aims to enhance community participation and foster social connectivity, particularly for young people and students[cite: 15, 23, 53].
+**EVENT ተራ** (Local Event Finder) is a web-based platform developed to solve the significant challenge of finding local and free events in Addis Ababa, where information is often scattered across social media and physical flyers. By creating a centralized, accessible, and responsive platform, the project aims to enhance community participation and foster social connectivity, particularly for young people and students
 
 ## 🎨 Design and Aesthetic
 
